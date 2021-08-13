@@ -1123,7 +1123,7 @@ idna2008 = ["idna"]
 
 [[package]]
 name = "rpcq"
-version = "3.9.1"
+version = "3.9.2"
 description = "The RPC framework and message specification for Rigetti QCS."
 category = "main"
 optional = false
@@ -1415,7 +1415,7 @@ latex = ["ipython"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "c059d449facf631a118d653669a4f0891da7d2a38e5402232bd5310045997975"
+content-hash = "46de402a70dab8ec80838cfedb94cb1de009e809fc58ab2600226a7859c5a7ed"
 
 [metadata.files]
 alabaster = [
@@ -2088,7 +2088,7 @@ rfc3986 = [
     {file = "rfc3986-1.5.0.tar.gz", hash = "sha256:270aaf10d87d0d4e095063c65bf3ddbc6ee3d0b226328ce21e036f946e421835"},
 ]
 rpcq = [
-    {file = "rpcq-3.9.1.tar.gz", hash = "sha256:bd5b9aa8fd14ce68d63306836f02053b674d2fadba05924133e30d12d7b8f651"},
+    {file = "rpcq-3.9.2.tar.gz", hash = "sha256:690c6e5ca8b2a6831c4f34e527b3adb276ce8656f43e851dfd90bc58961f5a69"},
 ]
 "ruamel.yaml" = [
     {file = "ruamel.yaml-0.17.9-py3-none-any.whl", hash = "sha256:8873a6f5516e0d848c92418b0b006519c0566b6cd0dcee7deb9bf399e2bd204f"},
