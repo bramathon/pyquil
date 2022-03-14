@@ -21,12 +21,12 @@ Interacting with the Compiler
 -----------------------------
 
 After :ref:`installing the SDK <sdkinstall>`, the Quil Compiler, ``quilc`` is available on your
-local machine. You can initialize a local ``quilc`` server by typing ``quilc -R`` into your
+local machine. You can initialize a local ``quilc`` server by typing ``quilc -R -P`` into your
 terminal. You should see the following message.
 
 .. code:: text
 
-    $ quilc -S
+    $ quilc -R -P
     +-----------------+
     |  W E L C O M E  |
     |   T O   T H E   |
